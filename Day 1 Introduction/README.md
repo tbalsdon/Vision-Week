@@ -1,10 +1,10 @@
-Day 1: Introduction and Why vision is hard
+# Day 1: Introduction and Why vision is hard
 
-Location: Salle Favard, 46 rue d'ulm
+**Location:** Salle Favard, 46 rue d'ulm
 
 (enter 46 rue d'ulm, turn right, the room is directly at the end of the hall, ground floor)
 
-Program:
+**Program:**
 
 10h Lecture: Pascal Mamassian - Vision is hard
 12h Lunch
