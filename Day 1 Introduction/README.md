@@ -1,10 +1,10 @@
 # Day 1: Introduction and Why vision is hard
 
-**Location:** Salle Favard, 46 rue d'ulm\
+**Location:** Salle Favard, 46 rue d'ulm<br/>
 
-(enter 46 rue d'ulm, turn right, the room is directly at the end of the hall, ground floor)\
+(enter 46 rue d'ulm, turn right, the room is directly at the end of the hall, ground floor)<br/>
 
-**Program:**\
+**Program:**<br/>
 
 
 10h Lecture: Pascal Mamassian - Vision is hard
@@ -13,7 +13,7 @@
 
 13h30 Practical/team building: what are the big questions in vision science today?
 
-15h30 Guest Speaker: George Kafetzis\
+15h30 Guest Speaker: George Kafetzis<br/>
 
 
 
