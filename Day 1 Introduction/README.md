@@ -1,4 +1,4 @@
-\bDay 1: Introduction and Why vision is hard
+Day 1: Introduction and Why vision is hard
 
 Location: Salle Favard, 46 rue d'ulm
 
