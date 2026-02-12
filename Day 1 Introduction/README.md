@@ -3,7 +3,7 @@
 **Location:** Salle Favard, 46 rue d'ulm
 
 \
-\
+
 (enter 46 rue d'ulm, turn right, the room is directly at the end of the hall, ground floor)
 
 \
@@ -11,7 +11,7 @@
 **Program:**
 
 \
-\
+
 10h Lecture: Pascal Mamassian - Vision is hard
 
 12h Lunch
