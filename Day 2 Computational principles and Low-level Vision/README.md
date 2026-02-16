@@ -1,6 +1,8 @@
 # Day 2: Computational principles and low-level vision
 
-**Location:** TBA
+**Location:** Institute de la Vision Conference room
+
+17, rue Moreau - 75012 Paris
   
 
 **Program:**
