@@ -1,6 +1,6 @@
-#Day 4: Decision, action, & neuropsychology
+# Day 4: Decision, action, & neuropsychology
 
-**Location: **
+**Location:**
 45 rue d'ulm
 
 Salle W (directions coming soon)
