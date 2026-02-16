@@ -1,4 +1,4 @@
-#Day 3: High-level vision & the visual hierarchy
+# Day 3: High-level vision & the visual hierarchy
 
 **Location:** 
 DEC, 29 rue d'ulm
