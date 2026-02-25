@@ -11,3 +11,11 @@ This repository contains all the information for Vision Week
 Come here for day-to-day specifics and materials
 
 For the program overview, see the wiki: https://github.com/tbalsdon/Vision-Week/wiki
+
+# Before we begin...
+
+Some of the practicals will be run in MATLAB.
+
+Please install matlab before the start of the course: https://www.mathworks.com/products/matlab.html
+
+You can start with a 1 month free trial, although most institutes associated with PSL will give you a license (contact your IT services)
