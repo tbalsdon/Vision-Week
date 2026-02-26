@@ -13,6 +13,6 @@
 
 12h30 Lunch
 
-14h   Practical: Modeling a neuron
+14h   Practical: Modeling a neuron (Ulisse Ferrari, Paolo Scaccia and Baptiste Lorenzi)
 
 16h   Guest Speaker: Célian Bimbard
