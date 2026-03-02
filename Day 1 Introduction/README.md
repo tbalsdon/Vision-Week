@@ -29,3 +29,6 @@ optional advanced reading: https://www.cell.com/current-biology/fulltext/S0960-9
 Some more fun stuff about colour names: https://blog.xkcd.com/2010/05/03/color-survey-results/
 
 World Wide Neuro talks: https://www.youtube.com/c/worldwideneuro 
+
+Decoding dreams: (some earlier work) https://www.youtube.com/watch?v=1ZHGya5EUO8 and (more recently) https://arxiv.org/html/2501.09350v1
+
