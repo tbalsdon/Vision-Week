@@ -21,3 +21,6 @@
   
 
 optional advanced reading: https://www.cell.com/current-biology/fulltext/S0960-9822(25)01676-8
+
+
+Some more fun stuff about colour names: https://blog.xkcd.com/2010/05/03/color-survey-results/
