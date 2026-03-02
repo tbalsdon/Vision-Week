@@ -23,6 +23,9 @@
 optional advanced reading: https://www.cell.com/current-biology/fulltext/S0960-9822(25)01676-8
 
 
+**Additional resources from our discussions:**
+
+
 Some more fun stuff about colour names: https://blog.xkcd.com/2010/05/03/color-survey-results/
 
 World Wide Neuro talks: https://www.youtube.com/c/worldwideneuro 
