@@ -20,3 +20,5 @@
 **Additional materials from discussion**
 
 Context dependence in the retina (Goldin et al., 2022) https://www.nature.com/articles/s41467-022-33242-8.pdf
+
+How to explian the response to ommitted stimuli in the retina: https://www.nature.com/articles/s41467-024-50506-7
