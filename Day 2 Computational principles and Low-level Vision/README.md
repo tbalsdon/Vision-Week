@@ -16,3 +16,7 @@
 14h   Practical: Modeling a neuron (Ulisse Ferrari, Paolo Scaccia and Baptiste Lorenzi)
 
 16h   Guest Speaker: Célian Bimbard
+
+**Additional materials from discussion**
+
+Context dependence in the retina (Goldin et al., 2022) https://www.nature.com/articles/s41467-022-33242-8.pdf
