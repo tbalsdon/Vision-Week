@@ -27,3 +27,7 @@ We will be in Camille Marbo all day!
 **Additional information from our discussions**
 
 More details on prosopagnosia: https://15138e68bf.clvaw-cdnwnd.com/1caef9d353414e8be4f34c4530c14df0/200001979-5ffa85ffaa/Rossion2022_PS_partII_published.pdf 
+
+Face recognition in Monkeys: https://www.sciencedirect.com/science/article/pii/S0042698918301160
+
+For information on the illusions, see the pdf in the "Visual phenomena" folder
