@@ -7,6 +7,9 @@ DEC, 29 rue d'ulm
 
 16h-18h Salle Djebar: ground floor, turn left before the staircase, go all the way to the end of the corridor
 
+**Change of plan**
+We will be in Camille Marbo all day!
+
 **Program:**
 
 
