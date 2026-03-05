@@ -22,3 +22,5 @@ Salle W (see directions in wiki - including a map)
 **Additional notes from discussion**
 
 Video of blindsight patient navigating down corridoor: https://www.youtube.com/watch?v=nFJvXNGJsws
+
+Frontoparietal asymmetries leading to conscious perception: https://www.sciencedirect.com/science/article/abs/pii/S1364661324003231
