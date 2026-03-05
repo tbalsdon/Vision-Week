@@ -12,9 +12,11 @@ DEC 29 rue d'ulm
 
 9h30 Guest speaker: Janneke Jehee
 
-11h Discussion: What are the big questions in vision science now?
+11h Presentations of questions / final exam: What are the big questions in vision science now?
 
 12h30 Lunch
 
 14h Presentations of questions / final exam
+
+16h Final Discussion
 
