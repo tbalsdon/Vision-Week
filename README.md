@@ -19,3 +19,10 @@ Some of the practicals will be run in MATLAB.
 Please install matlab before the start of the course: https://www.mathworks.com/products/matlab.html
 
 You can start with a 1 month free trial, although most institutes associated with PSL will give you a license (contact your IT services)
+
+
+# Information for final "exam"
+
+Think of a question you think is important for vision science (with unlimited budget and time)
+
+You will present your question to the class, and most importantly, why you think your question is interesting. You have 3 minutes each.
